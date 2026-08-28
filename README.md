@@ -1,16 +1,45 @@
-## Hi there 👋
+Name / nickname:
+GitHub username:
 
-<!--
-**mrsho240/mrsho240** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+University:
+Major / Faculty:
 
-Here are some ideas to get you started:
+Currently learning:
+- 
+- 
+- 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in:
+- Reverse Engineering
+- 
+- 
+- 
+
+Programming languages I know:
+- 
+- 
+- 
+
+Tools / technologies I use:
+- 
+- 
+- 
+
+Projects:
+1. Project name - short description
+2. Project name - short description
+3. Project name - short description
+
+GitHub:
+Discord:
+Email:
+LinkedIn:
+Other:
+
+Style:
+- Minimal
+- Cybersecurity / Hacker
+- Dark / clean
+- Professional
+- Anime
+- Other:

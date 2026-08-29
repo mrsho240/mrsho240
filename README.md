@@ -10,7 +10,7 @@
 
 I'm a Computer Science student at **Bangkok University** with a growing interest in **Reverse Engineering** and low-level computer systems.
 
-I'm interested in understanding how software works beneath the surface — from source code and compiled programs to memory, operating systems, and the behavior of applications at a lower level.
+I'm interested in understanding how software works beneath the surface from source code and compiled programs to memory, operating systems, and the behavior of applications at a lower level.
 
 I enjoy learning by building projects, experimenting with code, and figuring out how things work rather than only learning the theory.
 

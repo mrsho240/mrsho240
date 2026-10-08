@@ -55,30 +55,7 @@ Software Development
 
 I have several projects in progress while exploring different areas of Computer Science.
 
-### Discord Bot
 
-A Python-based Discord bot with music playback and queue management.
-
-**Features include:**
-
-* Music playback
-* Music queue
-* Pause / Resume
-* Skip / Stop
-* Voice channel management
-* User avatar display
-* Custom Discord commands
-* Environment variable support
-
-The project is also an opportunity for me to practice Python, asynchronous programming, APIs, and software structure.
-
-### More Projects
-
-I'm currently working on multiple projects while exploring different areas of programming and computer science.
-
-Some projects are experiments, while others are built to help me understand a particular concept more deeply.
-
-> More projects will be added as they develop.
 
 ## What I'm Looking For
 

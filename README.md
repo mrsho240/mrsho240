@@ -26,19 +26,6 @@ I enjoy learning by building projects, experimenting with code, and figuring out
 * Python
 * Git & GitHub
 
-## Interests
-
-```text
-Reverse Engineering
-Binary Analysis
-Low-Level Programming
-Cybersecurity
-Operating Systems
-Computer Architecture
-Performance / HPC
-Software Development
-```
-
 ## Languages
 
 <p>
@@ -64,6 +51,4 @@ I'm currently interested in learning more about:
 * Memory Analysis
 * Operating Systems
 * Computer Architecture
-* Malware Analysis
 * Low-Level Programming
-* Cybersecurity

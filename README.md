@@ -51,10 +51,6 @@ Software Development
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,discord" />
 </p>
 
-## Projects
-
-I have several projects in progress while exploring different areas of Computer Science.
-
 
 
 ## What I'm Looking For
